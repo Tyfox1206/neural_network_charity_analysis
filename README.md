@@ -8,9 +8,9 @@ For this challenge I created a model that predicts if funding is provided by Alp
 
 ### Data Preprocessing
  - What variable(s) are considered the target(s) for your model?
- * The target for the model is "IS_SUCCESSFUL"
+   * The target for the model is "IS_SUCCESSFUL"
  - What variable(s) are considered to be the features for your model?
- * all columns are features expect for the target column and the two that I dropped/
+   * all columns are features expect for the target column and the two that I dropped/
  - What variable(s) are neither targets nor features, and should be removed from the input data?
- * EIN and NAME were droped as they are neither targets nor features.
+   * EIN and NAME were droped as they are neither targets nor features.
  
