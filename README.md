@@ -30,3 +30,5 @@ For this challenge I created a model that predicts if funding is provided by Alp
    ![attempt3](https://github.com/Tyfox1206/neural_network_charity_analysis/blob/main/images/attempt3_eval.PNG)
 
 ### Summary 
+
+Overall, with this model you will be able to predict if the organization will be success with 72% accuracy. For a recommendation on another model to use I would recommend Random Forest Classifier. For this project it seems the time used to set up all this for 72% accuracy could be achieved much quicker with the random forest classifier as it is easier to set up and will most likely be just as accurate.
