@@ -23,10 +23,13 @@ For this challenge I created a model that predicts if funding is provided by Alp
    ![base eval](https://github.com/Tyfox1206/neural_network_charity_analysis/blob/main/images/base_eval.PNG)
  - What steps did you take to try and increase model performance?
    * For attempt 1 I reduced the number of applcation types however this did not help achieve the model desired. 
+   
    ![attempt1](https://github.com/Tyfox1206/neural_network_charity_analysis/blob/main/images/attempt1_eval.PNG)
    * For attempt 2 I reduced the number of classifications along with the change made in the previous attempt
+   
    ![attempt2](https://github.com/Tyfox1206/neural_network_charity_analysis/blob/main/images/attempt2_eval.PNG)
    * For attempt 3 I increaded the in each layer from 80 to 100 and from 30 to 50, along with the changes from pervious attempts.
+   
    ![attempt3](https://github.com/Tyfox1206/neural_network_charity_analysis/blob/main/images/attempt3_eval.PNG)
 
 ### Summary 
